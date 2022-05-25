@@ -945,7 +945,23 @@
 					<array>
 						<dict>
 							<key>include</key>
-							<string>#partial_and_var</string>
+							<string>#comments</string>
+						</dict>
+						<dict>
+							<key>include</key>
+							<string>#include</string>
+						</dict>
+						<dict>
+							<key>include</key>
+							<string>#conditional</string>
+						</dict>
+						<dict>
+							<key>include</key>
+							<string>#single_control</string>
+						</dict>
+						<dict>
+							<key>include</key>
+							<string>#single_var</string>
 						</dict>
 					</array>
 				</dict>
