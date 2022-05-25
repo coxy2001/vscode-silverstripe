@@ -899,8 +899,8 @@
 		</dict>
 		<key>tag_id_attribute</key>
 		<dict>
-			<key>begin</key>
-			<string>\b(id)\b\s(=)</string>
+			<key>match</key>
+			<string>\b(id)\s*(=)</string>
 			<key>captures</key>
 			<dict>
 				<key>1</key>
@@ -914,10 +914,6 @@
 					<string>punctuation.separator.key-value.html</string>
 				</dict>
 			</dict>
-			<key>end</key>
-			<string>(?&lt;=''|")</string>
-			<key>name</key>
-			<string>meta.attribute-with-value.id.html</string>
 			<key>patterns</key>
 			<array>
 				<dict>
