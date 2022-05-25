@@ -3,20 +3,19 @@
 	"displayName": "SilverStripe",
 	"description": "Syntax highlighter for SilverStripe template files (.ss)",
 	"icon": "images/icon.png",
-	"version": "0.0.5",
-	"publisher": "adrianhumphreys",
-	"author": "adrian",
+	"version": "0.0.6",
+	"publisher": "OldStarchy",
+	"author": "OldStarchy",
 	"license": "MIT",
 	"bugs": {
-		"url": "https://github.com/adrhumphreys/vscode-silverstripe/issues",
-		"email": "adrhumphreys@gmail.com"
+		"url": "https://github.com/OldStarchy/vscode-silverstripe/issues"
 	},
 	"engines": {
 		"vscode": "^1.0.0"
 	},
 	"repository": {
 		"type": "git",
-		"url": "https://github.com/adrhumphreys/vscode-silverstripe.git"
+		"url": "https://github.com/OldStarchy/vscode-silverstripe.git"
 	},
 	"categories": [
 		"Programming Languages",
@@ -59,10 +58,5 @@
 				"path": "./snippets/silverstripe-php.json"
 			}
 		]
-	},
-	"__metadata": {
-		"id": "3da1812a-9acc-4e12-88c0-0b1ab8cfe709",
-		"publisherId": "bfa7efa7-d32c-4e4b-8699-a6e4bd11c4e1",
-		"publisherDisplayName": "Adrian Humphreys"
 	}
 }
