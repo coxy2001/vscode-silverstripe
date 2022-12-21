@@ -3,19 +3,19 @@
 	"displayName": "SilverStripe",
 	"description": "Syntax highlighter for SilverStripe template files (.ss)",
 	"icon": "images/icon.png",
-	"version": "0.0.6",
-	"publisher": "OldStarchy",
-	"author": "OldStarchy",
+	"version": "0.0.7",
+	"publisher": "coxy2001",
+	"author": "coxy2001",
 	"license": "MIT",
 	"bugs": {
-		"url": "https://github.com/OldStarchy/vscode-silverstripe/issues"
+		"url": "https://github.com/coxy2001/vscode-silverstripe/issues"
 	},
 	"engines": {
 		"vscode": "^1.0.0"
 	},
 	"repository": {
 		"type": "git",
-		"url": "https://github.com/OldStarchy/vscode-silverstripe.git"
+		"url": "https://github.com/coxy2001/vscode-silverstripe.git"
 	},
 	"categories": [
 		"Programming Languages",
